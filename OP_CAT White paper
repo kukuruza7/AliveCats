@@ -1,1 +1,41 @@
-Start
+Title: OP_CAT: A New Tapscript Opcode for Concatenating Stack Values
+Author: [Your Name]
+Status: Draft
+Type: Technical White Paper
+Created: [Date]
+License: BSD-3-Clause
+
+Abstract:
+This white paper proposes the addition of a new tapscript opcode, OP_CAT, which allows the concatenation of two values on the stack. The proposed opcode would expand the toolbox of tapscript developers with a simple, modular, and useful opcode in the spirit of Unix. This white paper explains the technical details of OP_CAT, its benefits, and its potential use cases.
+
+Table of Contents:
+1. Introduction
+2. Background
+3. Problem Statement
+4. Proposed Solution
+5. Implementation Plan
+6. Conclusion
+7. References
+
+1. Introduction:
+This section provides an overview of the white paper and explains the problem that OP_CAT aims to solve.
+
+2. Background:
+This section provides some background information on Bitcoin tapscript and the limitations of the current toolbox.
+
+3. Problem Statement:
+This section defines the problem that OP_CAT aims to solve and explains why it is important.
+
+4. Proposed Solution:
+This section describes the technical details of OP_CAT and how it works.
+
+5. Implementation Plan:
+This section provides a detailed plan for implementing OP_CAT, including the steps that need to be taken and the resources that will be required.
+
+6. Conclusion:
+This section summarizes the main points of the white paper and reiterates the importance of OP_CAT.
+
+7. References:
+This section includes a list of all the sources used in the white paper.
+
+
