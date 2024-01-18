@@ -1,9 +1,11 @@
-Title: OP_CAT: A New Tapscript Opcode for Concatenating Stack Values
-Author: [Your Name]
-Status: Draft
+Title: OP_CAT: A Simple, Modular, and Useful Opcode for Tapscript
+Author: kirillkukuruza7
+        ababiluk2
+        oxmikem
+Status: Pending
 Type: Technical White Paper
-Created: [Date]
-License: BSD-3-Clause
+Created: 2024-01-17
+
 
 Abstract:
 This white paper proposes the addition of a new tapscript opcode, OP_CAT, which allows the concatenation of two values on the stack. The proposed opcode would expand the toolbox of tapscript developers with a simple, modular, and useful opcode in the spirit of Unix. This white paper explains the technical details of OP_CAT, its benefits, and its potential use cases.
