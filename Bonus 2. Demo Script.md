@@ -1,4 +1,4 @@
-<pre>  Bonus 2
+<pre>  I can code more than you! (Bonus editions)
  ,_     _
  |\\_,-~/
  / _  _ |    ,--.
