@@ -1,4 +1,18 @@
-## Bitcoin Ownership Token Generator - GitHub Tutorial
+<pre>  Bonus 2
+ ,_     _
+ |\\_,-~/
+ / _  _ |    ,--.
+(  @  @ )   / ,-'
+ \  _T_/-._( (
+ /         `. \
+|         _  \ |
+ \ \ ,  /      |
+  || |-_\__   /
+ ((_/`(____,-'        
+</pre>
+
+## Bitcoin Ownership Token Generator
+
 **Overview**
 
 Welcome to the Bitcoin Ownership Token Generator GitHub tutorial! This tutorial will guide you through the process of using a Python script to create ownership tokens on the Bitcoin blockchain. These tokens serve as a secure and verifiable proof of ownership for your digital assets.
