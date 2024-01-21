@@ -11,6 +11,7 @@
  ((_/`(____,-'        
 </pre>
 
+## Smile!
 1. Why did `OP_CAT` go to the coding party? It wanted to concatenate the fun!
 2. `OP_CAT` and `OP_SWAP` walk into a bar. The bartender says, "Can I push you a joke?" They reply, "Just pop it on the stack!"
 3. How does `OP_CAT` express its feelings? It concatenates a range of emotions!
