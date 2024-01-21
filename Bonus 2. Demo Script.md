@@ -78,7 +78,7 @@ print(ownership_token_script)
 
 </pre>
 
-**In simple terms:**
+**In simple terms**
 
 The script is a digital tool that creates a unique ownership token on the Bitcoin blockchain. It begins by generating a new Bitcoin address for the user and obtaining its corresponding public key, akin to a digital identity. The script then captures the current time, merging this timestamp with the public key using `OP_CAT`, a special operation for combining data. This combination is further processed to produce a unique token, akin to a digital fingerprint. This token serves as a verifiable proof of ownership for digital assets, embedding the user's identity and the exact moment of creation into the blockchain.
 
