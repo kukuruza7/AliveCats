@@ -1,4 +1,4 @@
-<pre> Who says no?
+<pre> Who says no? (Bonus editions)
  ,_     _
  |\\_,-~/
  / _  _ |    ,--.
